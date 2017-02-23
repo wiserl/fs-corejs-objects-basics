@@ -22,7 +22,10 @@
     "unicodeCodePointEscapes": true,
     "globalReturn": true,
     "jsx": true,
-    "experimentalObjectRestSpread": true,
+    "experimentalObjectRestSpread": true
+  },
+  "parserOptions": {
+    "sourceType": "module"
   },
   "env": {
     "node": true,
